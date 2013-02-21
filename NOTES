@@ -1,0 +1,177 @@
+Apps:
+  WolfcamQL
+  QLPrism
+  Quake Live New Alt Browser
+  QLRanks.com Display
+  QLDP: QUAKE LIVE Demo Player
+  Quake Live QLPrism Linker
+  Quake Live Stream Notifier
+
+G9X button configuration:
+  3: mousewheel down
+  4: side-back
+  5: side-front
+
+Useful commands:
+  vid_restart
+  +acc
+  devmap MAP
+  bot_gauntlet       // no chasing
+  bot_gauntletOnly 1 // chasing
+  bot_enable 1
+  bot_challenge 1 - make them more challenging
+  bot_minplayers #
+  noclip
+  god
+  give all
+  bot_reachability 1
+  bot_aasoptimize 1
+  bot_startingSkill 5
+  bot_thinktime 100 // 100ms default
+  web_botskill 5
+  demo FILENAME
+  timescale 1 // 1 default
+
+Free Maps:
+  almostlost
+  asylum
+  beyondreality
+  blackcathedral
+  cannedheat
+  cliffside
+  dismemberment
+  doubleimpact
+  dredwerkz
+  duelingkeeps
+  electrichead
+  eviscerated
+  eyetoeye
+  hearth
+  hektik
+  heroskeep
+  innersanctums
+  intervention
+  leviathan
+  longestyard
+  lostworld
+  provinggrounds
+  purgatory
+  realmofsteelrats
+  reflux
+  retribution
+  seamsandbolts
+  shiningforces
+  silentfright
+  spillway
+  windsongkeep
+
+All Maps:
+ aerowalk
+ almostlost
+ arenagate
+ asylum
+ basesiege
+ battleforged
+ beyondreality
+ blackcathedral
+ bloodlust
+ bloodrun
+ brimstoneabbey
+ campercrossings
+ campgrounds
+ cannedheat
+ chemicalreaction
+ cliffside
+ cobaltstation
+ coldwar
+ concretepalace
+ corrosion
+ courtyard
+ deepinside
+ demonkeep
+ devilish
+ diesirae
+ dismemberment
+ distantscreams
+ doubleimpact
+ dreadfulplace
+ dredwerkz
+ duelingkeeps
+ electrichead
+ eviscerated
+ evolution
+ eyetoeye
+ falloutbunker
+ fatalinstinct
+ finnegans
+ fluorescent
+ focalpoint
+ forgotten
+ furiousheights
+ gothicrage
+ grimdungeons
+ hearth
+ hektik
+ hellsgate
+ hellsgateredux
+ heroskeep
+ hiddenfortress
+ houseofdecay
+ industrialaccident
+ infinity
+ innersanctums
+ intervention
+ ironworks
+ japanesecastles
+ jumpwerkz
+ leviathan
+ limbus
+ longestyard
+ lostworld
+ namelessplace
+ overkill
+ overlord
+ phrantic
+ powerstation
+ provinggrounds
+ purgatory
+ quarantine
+ realmofsteelrats
+ rebound
+ reflux
+ retribution
+ revolver
+ sacellum
+ scornforge
+ seamsandbolts
+ shiningforces
+ siberia
+ silence
+ silentfright
+ sinister
+ skyward
+ solid
+ somewhatdamaged
+ sorrow
+ spacecamp
+ spacechamber
+ spacectf
+ spidercrossings
+ spillway
+ stonekeep
+ stronghold
+ terminalheights
+ terminatria
+ terminus
+ theatreofpain
+ threestory
+ thunderstruck
+ tornado
+ toxicity
+ trinity
+ troubledwaters
+ verticalvengeance
+ vortexportal
+ wargrounds
+ windowpain
+ windsongkeep
