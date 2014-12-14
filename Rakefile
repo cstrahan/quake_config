@@ -1,5 +1,5 @@
 def quakelive_baseq3
-  File.expand_path("~/Library/Application\ Support/QuakeLive/quakelive/home/baseq3")
+  File.expand_path("~/Library/PlayOnMac/wineprefix/QuakeLive/drive_c/users/charlesstrahan/Application Data/id Software/quakelive/home/baseq3")
 end
 
 task :push do
